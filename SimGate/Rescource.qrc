@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Img/cos.svg</file>
+        <file>Img/and.svg</file>
+        <file>Img/Exclude-1.svg</file>
+        <file>Img/High_State.svg</file>
+        <file>Img/Low_State.svg</file>
+        <file>Img/nand.svg</file>
+        <file>Img/negate.svg</file>
+        <file>Img/Neutral_State.svg</file>
+        <file>Img/nor.svg</file>
+        <file>Img/or.svg</file>
+        <file>Img/xor.svg</file>
+    </qresource>
+</RCC>
